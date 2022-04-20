@@ -1,14 +1,14 @@
-Mission : 
+## ArchiDAO Dev Guild Mission : 
 
 * Develop Products
 a. Smart Contracts
 b. Tokenomics
 
 * Test and Validate Ideas of Research Guild
-* Educational 
+* Educatate Architects on smart contracts
 
 
-To Do 
+## To Do 
 1. Decide timeline(week/weekend) about workshop for DAO Tooling
 2. Diagrams of Tokenomics (Council, Paper)
 3. Schedule for Dev Guild Bootcamp + Curriculum (Possible Scholoarship > Theo to contact Consensys)
@@ -19,28 +19,29 @@ To Do
 8. Theo to invite Lawyer for Blockchain-AEC Discussion
 
 
-Priority (3 Months)
+# Priority (3 Months)
 
-Apr : 
+## Apr : 
 * NFT Consultancy Contract & Dapp (3rd weekend) : [Mayur : Coordinator]
 
-May : 
+## May : 
 * Hackathon (3rd / 4th week of May) 
 * ArchiDAO > NFT Skills [Theo : Coordinator]
 * Bootcamp ArchiDAO Solidity [Babi : Coordinator]
 
-Jun :
+## Jun :
 * 
 
-Standard Practice (Open Ticket): 
+## Standard Practice (Open Ticket): 
 1. Mainnet Launch : Multisig is owner of the Contract, 
 2. Import Ownable.sol : Roles > Minter, Transfer, Pausable
 
+## Agenda
 
 1. Onboarding Structure
 2. Training Content
 3. DAO Voting and Tooling Research
 4. Consultancy 
+5. Task/ Bounty Creation
 
-Task / Bounty Creation 
 
