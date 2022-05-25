@@ -1,0 +1,2 @@
+ - new proposed schedule for the academy: August (rather than June-July)
+ - 
