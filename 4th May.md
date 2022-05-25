@@ -17,8 +17,8 @@ Reference : https://courses.ifcjs.io/crash-cours
 Priortise workshop for the year
 
 To Do
-1. Theo will put Babi and Mayur names in Consensys (September : 2 months ago)
-2. Theo to get 10 schloarships in Consensys
+1. Theo will put Babi and Mayur names in Consensys Bootcamp through AthensLabs (For September 2022)
+2. Theo to get 10 schloarships in Consensys (already in discussion with Xeno on this- Xeno agrees).
 3. ArchiDAO Hackathon to do
 4. NFT Consultancy Contract.sol
 5. ArchiDAONFT.sol (Dynamic, Project > Skills workflow )
@@ -31,21 +31,21 @@ Schedule
 * May : NFT Launch and Voting for Harmony
 May 23rd : Community Call Whitepaper Feedbac
 May 28th : Voting Annoucement
-* June : Bootcamp (June 18th - Juy 10th)
+* June : Bootcamp (June 18th - Juy 10th) [ we need to shift this in August]
 * July :  ArchiDAONFT and NFTConsultancy Smart Contracts 
 * August : Test within community for validation
 * September : Sep 15th : Launch of ArchiDAO Membership
 
 Q3 : ArchiNFT (July - Sept)
 
-ArchiDAO Internal Hackathon
+ArchiDAO Internal Hackathon - This can still happen -
 1. May 28,29 (3 hrs each day) : Main Logic : (Basics Solidity, ERC 721, ERC 1155)
 2. Jun : 11, 12 / 4th, 5th : Execution MVP
 3. July : Mid July: Ready to launch testnet
 
 -------------------------
 
-# 1st AEC Blockchain Bootcamp 
+# 1st AEC Blockchain Bootcamp [theo: I propose we postpone this, we do NOT have the resources if we are building infrastructure - best this takes place AFTER the archiDAO infrastructure and another academy]
 
 Project/Application specific learning
 
@@ -61,7 +61,7 @@ June 15th : Decentraland workshop [define?]
 July 1st/2nd : CityDAO Workshop [define?]
 
 ----------
-* Finalize all the content, schedule, project management and resources : 10th May
+* Finalize all the content, schedule, project management and resources : 10th May 
 * Landing page and materials, Registration Webpage: May 22nd 
 * Market, Strategic Partnership : 4 weeks
 
@@ -76,7 +76,7 @@ July 1st/2nd : CityDAO Workshop [define?]
 Team
 * Marketing team: (Babi, Richa & Shree: Graphics), External (Mayur, Theo) : Shoutout for the bootcamp
 * Workshop team : Theo, Babi, Mayur, (Richa, Shree)
-* Potential Partners : EC3 themed workshop > Daniel, 
+* Potential Partners : EC3 themed workshop > Daniel, [No. where exactly did this come from?] 
 
 
 Timeline : June 18th - July 10th  (Paid : 100$-maybe 200?-Scholarships for 5 people?) (Coursera : 25$)
